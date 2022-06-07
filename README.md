@@ -1,4 +1,13 @@
-### Hi there 👋
+Fala, gente! 👽
+
+Estudante Cesar School - Programa NExT <div>
+☕️ Java <div>
+🍃 Springboot <div>
+🗒 MySQL <div>
+🐍 Python <div>
+  
+
+  
 
 <!--
 **tulioalbu/tulioalbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
