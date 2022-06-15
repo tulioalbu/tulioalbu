@@ -2,7 +2,7 @@ Fala, gente! 👽
 
 Estudante Cesar School - Programa NExT <div>
 ☕️ Java <div>
-🍃 Springboot <div>
+🍃 Spring <div>
 🗒 MySQL <div>
 🐍 Python <div>
   
