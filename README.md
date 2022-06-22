@@ -1,10 +1,19 @@
 Fala, gente! 👽
 
-Estudante Cesar School - Programa NExT <div>
+Concluinte Programa NExT - Cesar School<div>
+  
 ☕️ Java <div>
 🍃 Spring <div>
 🗒 MySQL <div>
 🐍 Python <div>
+  
+Estudando: <div> 
+📱 Kotlin
+
+  
+
+  
+  
   
 
   
