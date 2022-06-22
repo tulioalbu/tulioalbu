@@ -3,12 +3,12 @@ Fala, gente! 👽
 Concluinte Programa NExT - Cesar School<div>
   
 ☕️ Java <div>
-🍃 Spring <div>
 🗒 MySQL <div>
+🍃 Spring <div>
 🐍 Python <div>
   
 Estudando: <div> 
-📱 Kotlin
+  📱 Kotlin
 
   
 
