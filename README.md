@@ -2,14 +2,13 @@ Fala, gente! 👽
 
 Concluinte Programa NExT - Cesar School<div>
   
-☕️ Java <div>
-🗒 MySQL <div>
-🍃 Spring <div>
-🐍 Python <div>
+☕️ Java 
+🗒 MySQL
+🍃 Spring Boot
+🐍 Python 
   
-Estudando: <div> 
-  📱 Kotlin
-
+Estudando:
+📱 Kotlin
   
 
   
