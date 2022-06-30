@@ -25,7 +25,7 @@
  
 ###### IDEs:
           
-  <img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />     
+  <img align="center" alt="Intellij" height="30" width="40" src="https://cdn.cdnlogo.com/logos/i/41/intellij-idea.svg"/>     
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </div>
   
