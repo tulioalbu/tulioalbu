@@ -9,6 +9,12 @@ Concluinte Programa NExT - Cesar School<div>
   
 Estudando:
 📱 Kotlin
+
+<div>
+Meu primeiro contato com programação: <div>
+🎛 Supercollider
+
+
   
 
   
