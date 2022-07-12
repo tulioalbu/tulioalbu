@@ -7,18 +7,19 @@
   <a href="https://github.com/tulioalbu">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=tulioalbu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioalbu&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=tulioalbu&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <div style="display: inline_block"><br>
 
-###### O que já estudei:
+###### O que já estudei (e seguirei estudando):
 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />        
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  <div style="display: inline_block"><br>
   
-###### O que estou estudando: 
+###### O que estou estudando no momento: 
  
  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
  <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> <div style="display: inline_block"><br>
