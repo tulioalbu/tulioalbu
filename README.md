@@ -1,6 +1,6 @@
 #### Fala, gente! 👽
 
-##### Concluinte programa NExT da Cesar School
+##### Concluinte programa NExT da Cesar School. Estudando Java e Kotlin para desenvolvimento mobile. 
 
 
 <div align="center">
