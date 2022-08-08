@@ -1,6 +1,6 @@
 #### Fala, gente! 👽
 
-##### Concluinte programa NExT da Cesar School. Estudando Java e Kotlin para desenvolvimento mobile. Cursando ADS na Wyden. 
+##### Concluinte programa NExT da Cesar School. Estudando Java e Kotlin para desenvolvimento mobile. Cursando ADS na UNIFBV Wyden. 
 
 
 <div align="center">
