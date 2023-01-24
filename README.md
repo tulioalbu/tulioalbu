@@ -1,6 +1,6 @@
 #### Fala, gente! 👽
 
-##### Estudando desenvolvimento web e mobile. Concluinte dos programa NExT e FAST da Cesar School e cursando ADS na UNIFBV Wyden . 
+##### Estudando desenvolvimento web e mobile. Concluinte dos programa NExT e FAST da Cesar School e cursando ADS na UNIFBV Wyden. 
 
 
 <div align="center">
