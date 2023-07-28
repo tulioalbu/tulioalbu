@@ -1,6 +1,7 @@
 #### Fala, gente! 👽
 
-##### Estudando desenvolvimento web e mobile. Concluinte dos programa NExT e FAST da Cesar School e cursando ADS na UNIFBV Wyden. 
+##### Atuo como desenvolvedor Full-Stack na Blue Technology. Trabalho principalmente com Java/Spring Boot e JavaScript/Vue.js.
+##### Neste espaço compartilho um pouco dos meus estudos no desenvolvimento web e mobile. Sou concluinte dos programas NExT e FAST da Cesar School e estou cursando ADS na UNIFBV Wyden (3º Períod). 
 
 
 <div align="center">
