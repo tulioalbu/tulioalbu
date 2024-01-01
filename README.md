@@ -1,6 +1,6 @@
 #### Fala, gente! 👽
 
-##### Atuo como Software Engineer na Fuze.cc | Moises.ai
+##### Atuo como Software Engineer na Fuze.cc atuando em projetos da Music.ai | Moises.ai
 ##### Neste espaço compartilho um pouco dos meus estudos no desenvolvimento web. Sou concluinte dos programas NExT e FAST da Cesar School e estou cursando ADS na UNIFBV Wyden (3º Períod). 
 
 
