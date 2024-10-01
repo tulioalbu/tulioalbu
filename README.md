@@ -1,6 +1,6 @@
 #### Fala, gente! 👽
 
-##### Atuo como Software Engineer na Fuze.cc trabalhando em projetos da Music.ai e Moises.ai
+##### Full Stack Engineer @ Music AI
 ##### Neste espaço compartilho um pouco dos meus estudos. Sou concluinte dos programas NExT e FAST da Cesar School e estou cursando ADS na UNIFBV Wyden (Último período)
 
 
