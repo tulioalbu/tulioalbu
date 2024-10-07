@@ -1,8 +1,4 @@
-#### Fala, gente! 👽
-
 ##### Full Stack Engineer @ Music AI
-##### Neste espaço compartilho um pouco dos meus estudos. Sou concluinte dos programas NExT e FAST da Cesar School e estou cursando ADS na UNIFBV Wyden (Último período)
-
 
 <div align="center">
   <a href="https://github.com/tulioalbu">
