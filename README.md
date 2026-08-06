@@ -1,2 +1,2 @@
-##### Full Stack Engineer @ Moises / Music AI
+##### Software Engineer @ Moises / Music AI
 
